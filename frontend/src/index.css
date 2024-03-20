@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+
+  font-family: 'Poppins', sans-serif !important;
+  font-family: 'Lato', sans-serif !important;
+ 
+}
+
+
+[type=search] {
+  outline-offset: 0px !important;
+}
+
+
+
+.carousel-control-next, .carousel-control-prev {
+  position: absolute !important;
+  top: 55% !important;
+  width: 35px !important;
+  color: #4db749 !important;
+  opacity: 1 !important;
+  height: 35px !important;
+  border-radius: 35px !important;
+  background-color: white !important;
+}
+
+
+.form-check-input {
+  width: 0.8em !important;
+  height: 0.8em !important;
+}
+
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: #4db749 !important;
+  background-color: #f8f8f908 !important;
+  border-bottom: 3px solid #4db749 !important;
+  border-radius: 0 !important;
+}
+
+
+label{
+  color: #A1A1A1 !important;
+}
+
+
+.mytex{
+  font-size: small;
+}
+
+
+
+.topsea::placeholder{
+  color: rgb(238, 237, 237);
+}
